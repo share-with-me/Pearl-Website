@@ -1,0 +1,73 @@
+.quiz{
+	height: 720px;
+	width : 100%;
+	background-image: url("q1.jpg");
+	background-repeat: no-repeat;
+	margin-top: -20px;
+}
+.a{
+	margin-left: 100px;
+	margin-top: 90px;
+}
+.back{
+	height: 4000px;
+	width: 4000px;
+	background-color: black;
+	position: fixed;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+
+}
+.a:hover{
+	background-image: url("11 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.b{
+	margin-left: 640px;
+	margin-top: -60px;
+}
+.b:hover{
+	background-image: url("11 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.c{
+	margin-left: 370px;
+	margin-top: -60px;
+}
+.c:hover{
+	background-image: url("11 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+
+
+.d{
+	margin-left: 400px;
+	margin-top: 5px;
+}
+.d:hover{
+	background-image: url("11 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.e{
+	margin-left: 450px;
+	margin-top: 10px;
+}
+.e:hover{
+	background-image: url("11 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.h{
+	margin-left: 200px;
+	margin-top: 40px;
+}
+.h:hover{
+	background-image: url("11 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.g{
+	margin-left: 450px;
+	margin-top: 50px;
+}
+.g:hover{
+	background-image: url("11 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}

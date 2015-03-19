@@ -1,0 +1,125 @@
+.home{
+	height: 700px;
+	width : 1366px;
+	background-image: url("hme.jpg");
+	background-repeat: no-repeat;
+}
+.set{
+	margin-left: 848px;
+	margin-top: -22px;
+	width :220px;
+	height:28px;
+}
+.set:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+
+.back{
+	height: 4000px;
+	width: 4000px;
+	background-color: black;
+	position: fixed;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+}
+.link{
+	margin-left: 730px;
+	margin-top: -150px;
+
+}
+.home_hover{
+	margin-left: 140px;
+	margin-top: -10px;
+
+}
+.home_hover:hover{
+	background-image: url("home_hover.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.events_hover{
+	margin-left: 175px;
+	margin-top: 5px;
+}
+.events_hover:hover{
+	background-image: url("events_hover.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.aboutUs_hover{
+	margin-left: 295px;
+	margin-top: -520px;
+
+}
+.aboutUs_hover:hover{
+	background-image: url("aboutUs_hover.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.register_hover{
+	margin-left: -60px;
+	margin-top: -280px;
+}
+.register_hover:hover{
+	background-image: url("register_hover.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.contact_hover{
+	margin-left: 30px;
+	margin-top: -400px;
+
+}
+.contact_hover:hover{
+	background-image: url("contact_hover.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.spons_hover{
+	margin-left:  265px;
+	margin-top: -100px;
+}
+.spons_hover:hover{
+	background-image: url("spons_hover.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.lowe{
+	position: relative;
+	margin-left: 980px;
+	margin-top: -87px;
+	z-index: 1;
+
+}
+.play{
+	margin-left: 550px;
+	
+}
+#youtubeid{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+#player{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.link{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.loweq:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.loweqq:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.loweqqq{
+	height:35px;
+	width:75px;
+	margin-left: 0px;
+
+}
+.loweqqq:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+
+.mag{
+	margin-left: 1000px;
+	margin-top: 350px;
+}
+.new:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+
+}

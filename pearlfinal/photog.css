@@ -1,0 +1,141 @@
+.photog{
+	height: 720px;
+	width : 100%;
+	background-image: url("pup.jpg");
+	background-repeat: no-repeat;
+	margin-top: -20px;
+}
+.back{
+	height: 4000px;
+	width: 4000px;
+	background-color: black;
+	position: fixed;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+}
+.a{
+	margin-top: 60px;
+	margin-left: 55px;
+}
+.a:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.v{
+	margin-top: 60px;
+	margin-left: 125px;
+
+}
+.v:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.u{
+	margin-left: 600px;
+	margin-top: 90px;
+}
+.u:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.t{
+	margin-left: 240px;
+	margin-top: -30px;
+}
+.t:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.b{
+	margin-left: 270px;
+	margin-top: -190px;
+}
+.b:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.c{
+	margin-left: 360px;
+	margin-top: -50px;
+}
+.c:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.d{
+	margin-left: 40px;
+	margin-top: -145px;
+}
+.d:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.e{
+	margin-left: 270px;
+	margin-top: -130px;
+}
+.e:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.f{
+	margin-left: 250px;
+	margin-top: -70px;
+}
+.f:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.g{
+	margin-left: 250px;
+	margin-top: -80px;
+}
+.g:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.h{
+	margin-left: 220px;
+	margin-top: -60px;
+}
+.h:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.i{
+	margin-left: 360px;
+	margin-top: -120px;
+}
+.i:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.r{
+	margin-left: 100px;
+	margin-top: -40px;
+}
+.r:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.p{
+	margin-left: 230px;
+	margin-top: -40px;
+
+}
+.p:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.w{
+	margin-left: 180px;
+	margin-top: -60px;
+}
+.w:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+
+

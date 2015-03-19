@@ -1,0 +1,131 @@
+.full{
+	height: 700px;
+	width : 1366px;
+	background-image: url("events base.jpg");
+	background-repeat: no-repeat;
+	margin-top: -20px;
+}
+.back{
+	height: 4000px;
+	width: 4000px;
+	background-color: black;
+	position: fixed;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+
+}
+.hpage{
+	margin-left: -650px;
+	margin-top: -10px;
+}
+.a{
+	margin-left: 520px;
+	margin-top: 40px;
+}
+.a:hover{
+	background-image: url("hin.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.b{
+	margin-left: 420px;
+	margin-top: -25px;
+}
+.b:hover{
+	background-image: url("dan.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.c{
+	margin-left: 130px;
+	margin-top: -60px;
+}
+.c:hover{
+	background-image: url("art.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.d{
+	margin-left: 200px;
+	margin-top: -40px;
+}
+.d:hover{
+	background-image: url("hea.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.e{
+	margin-left: 250px;
+	margin-top: -25px;
+}
+.e:hover{
+	background-image: url("5 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.f{
+	margin-left: 150px;
+	margin-top:  -130px;
+}
+.f:hover{
+	background-image: url("6 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.g{
+	margin-left: 400px;
+	margin-top: -15px;
+}
+.g:hover{
+	background-image: url("7 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.h{
+	margin-left: 270px;
+	margin-top: -100px;
+}
+.h:hover{
+	background-image: url("8 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.i{
+	margin-left: 1050px;
+	margin-top: -220px;
+}
+.i:hover{
+	background-image: url("9 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.j{
+	margin-left: 550px;
+	margin-top: -70px;
+}
+.j:hover{
+	background-image: url("10 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.k{
+	margin-left: 920px;
+	margin-top: -150px;
+}
+.k:hover{
+	background-image: url("11 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.l{
+	margin-left: 750px;
+	margin-top: -70px;
+}
+.l:hover{
+	background-image: url("12 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.z{
+	margin-left: -370px;
+	margin-top: 75px;
+}
+.z:hover{
+	background-image: url("14 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.v{
+	margin-left: 10px;
+	margin-top: -1150px;
+}
+.v:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}

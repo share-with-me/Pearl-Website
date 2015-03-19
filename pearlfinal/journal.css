@@ -1,0 +1,38 @@
+.journal{
+	height: 720px;
+	width : 100%;
+	background-image: url("j1.jpg");
+	background-repeat: no-repeat;
+	margin-top: -20px;
+}
+.back{
+	height: 4000px;
+	width: 4000px;
+	background-color: black;
+	position: fixed;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+
+}
+.a{
+	margin-left:370px; 
+	margin-top: 300px;
+}
+.a:hover{
+	background-image: url("9 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.b{
+	margin-top: 320px;
+}
+.b:hover{
+	background-image: url("9 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.c{
+	margin-left: 450px;
+	margin-top: 90px;
+}
+.c:hover{
+	background-image: url("9 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}

@@ -1,0 +1,127 @@
+.head{
+	height: 780px;
+	width : 100%;
+	background-image: url("Headliners.jpg");
+	background-repeat: no-repeat;
+	margin-top: -85px;
+	margin-left: 0px;
+}
+
+.back{
+	height: 4000px;
+	width: 4000px;
+	background-color: black;
+	position: fixed;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+	margin-top: -20px;
+	margin-left: -20px;
+}
+.abc{
+	
+	color: black;
+	margin-left: 25px;
+	margin-top: 100px;
+	font-size: 18px;
+	font-family:  "Times New Roman", Georgia, Serif;
+}
+.abc:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.dsa{
+	margin-top: 50px;
+	margin-left: 220px;
+	color: black;
+	font-size: 18px;
+	font-family:  "Times New Roman", Georgia, Serif;
+}
+.dsa:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.fds{
+	margin-top: 25px;
+	margin-left: 220px;
+	font-size: 18px;
+	font-family:  "Times New Roman", Georgia, Serif;
+	color: black;
+
+}
+.fds:hover{
+cursor: url(cursor2.png), url(cursor2.png), auto;	
+
+}
+.fdsa{
+	margin-top: 25px;
+	margin-left: 220px;
+	font-size: 18px;
+	font-family:  "Times New Roman", Georgia, Serif;
+	color: black;
+
+
+}
+.fdsa:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.fdsab{
+	margin-top: 25px;
+	margin-left: 220px;
+	font-size: 18px;
+	font-family:  "Times New Roman", Georgia, Serif;
+	color: black;
+
+}
+.fdsab:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.as{
+	margin-top: 25px;
+	margin-left: 220px;
+	font-size: 18px;
+	font-family:  "Times New Roman", Georgia, Serif;
+	color: black;
+
+}
+.fdsaba{
+	margin-top: 25px;
+	margin-left: 220px;
+	font-size: 18px;
+	font-family:  "Times New Roman", Georgia, Serif;
+	color: black;
+
+}
+.fdsaba:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.fdsabab{
+	margin-top: 25px;
+	margin-left: 220px;
+	font-size: 18px;
+	font-family:  "Times New Roman", Georgia, Serif;
+	color: black;
+
+}
+.asdf{
+	margin-left: 10px;
+	margin-top: -600px;
+}
+.asdf:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.fdsabab:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.adv:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+
+}
+.vs:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.xan:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}

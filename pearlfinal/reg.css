@@ -1,0 +1,6 @@
+.contain{
+	height: 100vh;
+	width : 100%;
+	background-image: url("hme.jpg");
+	background-repeat: no-repeat;
+}

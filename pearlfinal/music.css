@@ -1,0 +1,62 @@
+.music{
+	height: 720px;
+	width : 100%;
+	background-image: url("m1.jpg");
+	background-repeat: no-repeat;
+	margin-top: -20px;
+}
+.back{
+	height: 4000px;
+	width: 4000px;
+	background-color: black;
+	position: fixed;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+
+}
+.a{
+	margin-left: 600px;
+	margin-top: 180px;
+}
+.a:hover
+{
+	background-image: url("5 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.b{
+	margin-left: 320px;
+	margin-top: 20px;
+}
+.b:hover
+{
+	background-image: url("5 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.c{
+	margin-left: 430px;
+	margin-top: 20px;
+
+}
+.c:hover
+{
+	background-image: url("5 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.d{
+	margin-left: 160px;
+	margin-top: 50px;
+}
+.d:hover
+{
+	background-image: url("5 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.e{
+	margin-left: 400px;
+	margin-top: 90px;
+}
+.e:hover
+{
+	background-image: url("5 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}

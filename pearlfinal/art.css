@@ -1,0 +1,50 @@
+.art{
+	height: 720px;
+	width : 100%;
+	background-image: url("a1.jpg");
+	background-repeat: no-repeat;
+	margin-top: -20px;
+}
+.back{
+	height: 4000px;
+	width: 4000px;
+	background-color: black;
+	position: fixed;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+}
+.hpage{
+	margin-left: -730px;
+	margin-top: -170px;
+}
+.a{
+	margin-left: 600px;
+	margin-top: 180px;
+}
+.a:hover{
+	background-image: url("art.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.b{
+	margin-left: 340px;
+	margin-top: -30px;
+}
+.b:hover{
+	background-image: url("art.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.c{
+	margin-left: 440px;
+	margin-top: 0px;
+}
+.c:hover{
+	background-image: url("art.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.d{
+	margin-left: 450px;
+	margin-top: 70px;
+}
+.d:hover{
+	background-image: url("art.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}

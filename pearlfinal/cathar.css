@@ -1,0 +1,61 @@
+.cathar{
+	height: 720px;
+	width : 100%;
+	background-image: url("cath.jpg");
+	background-repeat: no-repeat;
+	margin-top: -20px;
+}
+.back{
+	height: 4000px;
+	width: 4000px;
+	background-color: black;
+	position: fixed;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+}
+.a{
+	margin-left: 600px;
+	margin-top: 180px;
+}
+.a:hover{
+	background-image: url("7 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.b{
+	margin-left: 630px;
+	margin-top: 50px;
+}
+.b:hover{
+	background-image: url("7 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.c{
+	margin-left: 170px;
+	margin-top: 80px;
+}
+.c:hover{
+	background-image: url("7 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.d{
+	margin-left: 470px;
+	margin-top: 80px;
+}
+.d:hover{
+	background-image: url("7 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.z{
+	margin-left: 450px;
+	margin-top: 180px;
+}
+.z:hover{
+	background-image: url("7 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.y{
+	margin-left: 250px;
+}
+.y:hover{
+	background-image: url("7 glow.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}

@@ -1,0 +1,31 @@
+.dance{
+	height: 720px;
+	width : 100%;
+	background-image: url("d1.jpg");
+	background-repeat: no-repeat;
+	margin-top: -20px;
+}
+
+.back{
+	height: 4000px;
+	width: 4000px;
+	background-color: black;
+	position: fixed;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+}
+.a{
+	margin-left: 320px;
+	margin-top: 300px;
+}
+.a:hover{
+	background-image: url("dan.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}
+.b{
+	margin-left: 400px;
+	margin-top: 320px;
+}
+.b:hover{
+	background-image: url("dan.png");
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+}

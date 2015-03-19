@@ -1,0 +1,66 @@
+.new{
+	background-image: url("monil.jpg");
+	background-repeat: no-repeat;
+	height: 780px;
+	width: 1368px;
+	margin-top: -80px;
+	margin-left: 15px;
+	position: fixed;
+}
+.back{
+	background-color: black;
+	position: fixed;
+	width: 4000px;
+	height: 4000px;
+	margin-top: -20px;
+	margin-left: -20px;
+	cursor: url(cursor1.png), url(cursor1.png), auto;
+}
+.monil11{
+	margin-top:180px;
+	margin-left:350px;
+}
+.glitterati1{
+	margin-top:2px;
+	margin-left:420px;
+}
+
+.monil21{
+	margin-top:-120px;
+	margin-left:1000px;
+}
+.glitterati2{
+	margin-top:2px;
+	margin-left:1050px;
+}
+.monil31{
+	margin-top:-70px;
+	margin-left:100px;
+}
+.glitterati3{
+	margin-top:2px;
+	margin-left:150px;
+}.monil41{
+	margin-top:-170px;
+	margin-left:750px;
+}
+.glitterati4{
+	margin-top:2px;
+	margin-left:800px;
+}
+.monil51{
+	margin-top:-50px;
+	margin-left:450px;
+
+}
+.monil51:hover{
+	cursor: url(cursor2.png), url(cursor2.png), auto;
+
+}
+.glitterati5{
+	margin-top:-10px;
+	margin-left:500px;
+}
+
+
+
